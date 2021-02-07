@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pechonz.github.io/static/css/main.3e9bd6f8.chunk.css",
+    "main.js": "/pechonz.github.io/static/js/main.60bc423b.chunk.js",
+    "main.js.map": "/pechonz.github.io/static/js/main.60bc423b.chunk.js.map",
+    "runtime-main.js": "/pechonz.github.io/static/js/runtime-main.719bbbf7.js",
+    "runtime-main.js.map": "/pechonz.github.io/static/js/runtime-main.719bbbf7.js.map",
+    "static/css/2.2aa38b9c.chunk.css": "/pechonz.github.io/static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.7d24808a.chunk.js": "/pechonz.github.io/static/js/2.7d24808a.chunk.js",
+    "static/js/2.7d24808a.chunk.js.map": "/pechonz.github.io/static/js/2.7d24808a.chunk.js.map",
+    "static/js/3.bc0b9e48.chunk.js": "/pechonz.github.io/static/js/3.bc0b9e48.chunk.js",
+    "static/js/3.bc0b9e48.chunk.js.map": "/pechonz.github.io/static/js/3.bc0b9e48.chunk.js.map",
+    "index.html": "/pechonz.github.io/index.html",
+    "static/css/2.2aa38b9c.chunk.css.map": "/pechonz.github.io/static/css/2.2aa38b9c.chunk.css.map",
+    "static/css/main.3e9bd6f8.chunk.css.map": "/pechonz.github.io/static/css/main.3e9bd6f8.chunk.css.map",
+    "static/js/2.7d24808a.chunk.js.LICENSE.txt": "/pechonz.github.io/static/js/2.7d24808a.chunk.js.LICENSE.txt",
+    "static/media/profileHome.77b69477.jpg": "/pechonz.github.io/static/media/profileHome.77b69477.jpg",
+    "static/media/profilepic.80d12260.jpg": "/pechonz.github.io/static/media/profilepic.80d12260.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.719bbbf7.js",
+    "static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.7d24808a.chunk.js",
+    "static/css/main.3e9bd6f8.chunk.css",
+    "static/js/main.60bc423b.chunk.js"
+  ]
+}
